@@ -1,13 +1,19 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "Yixiao Wang - Personal Homepage",
+	"short_name": "Yixiao Wang",
+	"description": "an undergraduate student from Shanghai Jiao Tong University",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
 	"icons": [
 		{
-			"src": "/images/favicon-192x192.png",
+			"src": "/images/yixiaowang-avatar.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/images/favicon-512x512.png",
+			"src": "/images/yixiaowang-avatar.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
